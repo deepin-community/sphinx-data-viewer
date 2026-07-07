@@ -1,0 +1,10 @@
+Document: sphinx-data-viewer
+Title: Debian sphinx-data-viewer Manual
+Author: https://github.com/useblocks/sphinx-data-viewer/graphs/contributors
+Abstract: This is the documentation of sphinx-data-viewer that is also
+ available online at https://sphinx-data-viewer.readthedocs.io/en/latest/
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-sphinx-data-viewer-doc/html/index.html
+Files: /usr/share/doc/python-sphinx-data-viewer-doc/html/*.html

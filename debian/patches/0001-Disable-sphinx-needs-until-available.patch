@@ -1,0 +1,21 @@
+From: Christian Bayle <bayle@debian.org>
+Date: Sun, 20 Apr 2025 01:27:44 +0200
+Subject: Disable sphinx needs until available
+
+Forwarded: not-needed
+---
+ docs/conf.py | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/docs/conf.py b/docs/conf.py
+index fa86181..eeeb277 100644
+--- a/docs/conf.py
++++ b/docs/conf.py
+@@ -22,7 +22,6 @@ extensions = [
+     "sphinx.ext.autodoc",
+     "sphinx_data_viewer",
+     "sphinxcontrib.plantuml",
+-    "sphinx_needs",
+     "sphinx_design",
+     "sphinx_copybutton",
+ ]
