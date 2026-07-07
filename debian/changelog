@@ -1,3 +1,9 @@
+sphinx-data-viewer (0.1.5-4deepin1) unstable; urgency=medium
+
+  * fix tox test
+
+ -- Chang Yang <yangchang@deepin.org>  Tue, 07 Jul 2026 22:45:22 +0800
+
 sphinx-data-viewer (0.1.5-4) unstable; urgency=medium
 
   * Set theme furo
