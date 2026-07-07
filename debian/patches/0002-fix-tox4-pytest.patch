@@ -1,0 +1,13 @@
+diff --git a/pyproject.toml b/pyproject.toml
+index 0ba9a84..a394791 100644
+--- a/pyproject.toml
++++ b/pyproject.toml
+@@ -70,7 +70,7 @@ usedevelop = true
+ extras =
+   test
+ commands =
+-  pytest {posargs:--cov=src}
++  python -m pytest {posargs:--cov=src}
+ 
+ [testenv:docs]
+ extras = 
