@@ -1,0 +1,12 @@
+/* Data viewer */
+.json-container .json-key {
+    color: var(--color-foreground-primary);
+}
+
+.json-container .json-size {
+    color: var(--color-foreground-muted);
+}
+
+table.need {
+    background-color: transparent;
+}

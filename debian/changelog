@@ -1,5 +1,28 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinx-data-viewer (0.1.5-4) unstable; urgency=medium
 
-  * Initial release
+  * Set theme furo
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Christian Bayle <bayle@debian.org>  Sat, 20 Sep 2025 21:40:06 +0200
+
+sphinx-data-viewer (0.1.5-3) unstable; urgency=medium
+
+  * Add alabaster, python3-sphinx-needs deps
+  * Fix bad rendering in furo, with alabaster use
+
+ -- Christian Bayle <bayle@debian.org>  Tue, 16 Sep 2025 15:09:57 +0200
+
+sphinx-data-viewer (0.1.5-2) unstable; urgency=medium
+
+  * Disable sphinx needs dependancy until available
+  * Add patch to disable sphinx-needs until available
+  * Set doc-base information
+  * Fix VCS Urls
+  * Remove dependancy on python3-ruff
+
+ -- Christian Bayle <bayle@debian.org>  Tue, 16 Sep 2025 15:07:50 +0200
+
+sphinx-data-viewer (0.1.5-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1103616)
+
+ -- Christian Bayle <bayle@debian.org>  Sat, 19 Apr 2025 21:51:22 +0200
